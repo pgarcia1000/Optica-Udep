@@ -1,0 +1,10 @@
+ El volumen de la unidad D es Datos
+ El n£mero de serie del volumen es: F028-7AC0
+
+ Directorio de D:\laragon\www\Optica-Udep
+
+12/03/2021  12:35 p. m.    <DIR>          .
+12/03/2021  12:35 p. m.    <DIR>          ..
+12/03/2021  12:35 p. m.                 0 texto.txt
+               1 archivos              0 bytes
+               2 dirs  380,626,223,104 bytes libres
